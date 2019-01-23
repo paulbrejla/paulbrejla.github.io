@@ -19,6 +19,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Amazon Web Services
 * Spring Framework (Spring Boot)
 * JUnit
+* Camunda
 * Play! Framework
 * Elixir & Phoenix
 * Python
@@ -33,6 +34,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * HTML
 * CSS
 * Javascript
+* Vue.js
 * JQuery
 * C
 
@@ -50,12 +52,20 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Quantitative Statistics
 
 #### Practice 
-* Backend Engineer at hepster.com, where I help an InsurTech startup build a scalable, backend platform. I helped the business by architecting a cloud-native infrastructure based on Spring Boot & Kotlin, AWS, Docker, Laravel, and Vue.js and coaching the delivery team (current).
+* Head of Backend at hepster.com, where I help an InsurTech startup build a scalable, backend platform. I helped the business by architecting a cloud-native infrastructure based on Spring Boot & Kotlin, AWS, Docker, Laravel, and Vue.js and coaching the delivery team (current).
 * Systems Analyst AIDA Cruises' Digital Unit, where I helped with the integration of Digital Products into legacy systems infrastructures as part of the organization's Digital Transformation. I was primarily involved in building decision support systems for call centers and the group's expansion into the Chinese market (Oct. 2016 - Oct. 2017).
 * Business Analyst Reservations & Electronic Channels at AIDA Cruises, where I was responsible for the internet booking platforms and the electronic channels (B2C - B2B) connected to it. I primarily dealed with requirements engineering and architecting a mission-critical Java stack based on Spring & Hibernate (Nov. 2011 - Oct. 2016).
 * Project Manager for a business-to-business marketing analysis project for a major cruise line in the DACH travel market.
 * Research Assistant for the programme in (International) Cruise Industry Management at the Bremerhaven University of Applied Sciences.
 * Internship at the "Touristikverband Rotenburg Wümme e.V.", where I implemented a county-wide internet reservation system.
 
-#### Research & Other Projects
+#### Research & Other Contributions
 My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. I have been educated in a broad range of quantitative and qualitative skills at three European universities. I also do side projects, mostly to scratch own itches and stay on top of current technologies. 
+
+##### Open Source
+* **easy-rules**. I contributed the ability to read MVEL rules from strings using a java.io.Reader to easy-rules, a simple rules engine for Java.
+
+#### Projects
+* **Kreuzfahrt-Gurus.de**. I built a scalable, cloud-native backend for frontend infrastructure based on Spring Boot and Kotlin. I also developed vuejs components. (http://www.kreuzfahrt-gurus.de)
+* **Ferien-Api.de**. I built a small service based on Spring Boot, Kotlin, and Jetty that exposes German school holidays via a RESTful API. (https://www.ferien-api.de)
+

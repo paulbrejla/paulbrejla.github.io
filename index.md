@@ -80,8 +80,7 @@ My work or work that I have contributed to has been published in peer-reviewed a
 ### Contact / Imprint
 You may contact me via e-mail under paul(at)paulbrejla(dot)com or via social media. 
 
-
-Paul Brejla
-Gerberbruch 15
-18055 Rostock
+> Paul Brejla
+> Gerberbruch 15
+> 18055 Rostock
 

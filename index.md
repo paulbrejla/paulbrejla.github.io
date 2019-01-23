@@ -36,3 +36,16 @@ I have learned to dynamically deal with shifting priorities and expectations in 
     Javascript
     JQuery
     C
+
+Methodology
+
+    Kanban
+    Model-Based Requirements Engineering
+    Test-Driven Development
+    Agile Requirements Engineering
+    Use Case 2.0
+    User Stories
+    User Story Slicing
+    Acceptance Criteria
+    Product Roadmapping
+    Quantitative Statistics

@@ -15,40 +15,39 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 
 #### Technology Stack
 
-    Java Ecosystem (Especially the Groovy programming language, Spring Boot, Kotlin, and Scala)
-    Amazon Web Services
-    Spring Framework (Spring Boot)
-    JUnit
-    Play! Framework
-    Elixir & Phoenix
-    Python
-    R (Statistical Computing)
-    Git
-    Confluence
-    Jira
-    Test Automation with JMeter and Selenium
-    Enterprise Architect
-    RESTful Web Services
-    SOAP
-    XML-RPC (I have worked with some very strange legacy APIs)
-    HTML
-    CSS
-    Javascript
-    JQuery
-    C
+* Java Ecosystem (Especially the Groovy programming language, Spring Boot, Kotlin, and Scala)
+* Amazon Web Services
+* Spring Framework (Spring Boot)
+* JUnit
+* Play! Framework
+* Elixir & Phoenix
+* Python
+* Git
+* Confluence
+* Jira
+* Test Automation with JMeter and Selenium
+* IntelliJ IDEA
+* RESTful Web Services
+* SOAP
+* XML-RPC (I have worked with some very strange legacy APIs)
+* HTML
+* CSS
+* Javascript
+* JQuery
+* C
 
 #### Methodology
 
-    Kanban
-    Model-Based Requirements Engineering
-    Test-Driven Development
-    Agile Requirements Engineering
-    Use Case 2.0
-    User Stories
-    User Story Slicing
-    Acceptance Criteria
-    Product Roadmapping
-    Quantitative Statistics
+* Kanban
+* Model-Based Requirements Engineering
+* Test-Driven Development
+* Agile Requirements Engineering
+* Use Case 2.0
+* User Stories
+* User Story Slicing
+* Acceptance Criteria
+* Product Roadmapping
+* Quantitative Statistics
 
 #### Practice 
 * Backend Engineer at hepster.com, where I help an InsurTech startup build a scalable, backend platform. I helped the business by architecting a cloud-native infrastructure based on Spring Boot & Kotlin, AWS, Docker, Laravel, and Vue.js and coaching the delivery team (current).

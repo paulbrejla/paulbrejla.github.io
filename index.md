@@ -72,4 +72,7 @@ My work or work that I have contributed to has been published in peer-reviewed a
 #### Research
 * **Brejla, P. & Gilbert, D. (2012)**. An Exploratory Use of Web Content Analysis to Understand Cruise Tourism Services. International Journal of Tourism Research. 16(2):157-168. (Download / Buy) 
 * **Papathanassis, A. & Brejla, P. (2012)**. Tourism Extranet Acceptance in the Cruise Distribution Chain: The Role of Content, Usability, and Appearance. Journal of Information Technology & Tourism. 13(2): 105-117. (Download / Buy)
+* **Papathanassis, A., Matuszewski, I. & Brejla, P. (2011)**. The 'Cruise Ship Railing Dance': Conducting academic research in the cruise domain. In Cruise Tourism and Society A Socio-economic Perspective. Springer Berlin Heidelberg. (Download / Buy)
 
+* **Master Thesis: Looting the Buffet and Prowling around the Pool - Exploring the Co-Created Cruise Vacation. A Web Content Mining Approach**. - Linköping University, Sweden. Supervisor: David Gilbert, PhD (University of Surrey, England).
+* **Bachelor Thesis: Modelling Travel Agency Extranet Acceptance: The Role of Usability, Content and Appearance**. - Bremerhaven University of Applied Sciences, Germany. Supervisor: Prof. Dr. Alexis Papathanassis.

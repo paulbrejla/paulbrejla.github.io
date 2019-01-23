@@ -77,4 +77,11 @@ My work or work that I have contributed to has been published in peer-reviewed a
 * **Master Thesis: Looting the Buffet and Prowling around the Pool - Exploring the Co-Created Cruise Vacation. A Web Content Mining Approach**. - Linköping University, Sweden. Supervisor: David Gilbert, PhD (University of Surrey, England).
 * **Bachelor Thesis: Modelling Travel Agency Extranet Acceptance: The Role of Usability, Content and Appearance**. - Bremerhaven University of Applied Sciences, Germany. Supervisor: Prof. Dr. Alexis Papathanassis.
 
-* * *
+### Contact / Imprint
+You may contact me via e-mail under paul(at)paulbrejla(dot)com or via social media. 
+
+
+Paul Brejla
+Gerberbruch 15
+18055 Rostock
+

@@ -69,3 +69,7 @@ My work or work that I have contributed to has been published in peer-reviewed a
 * **Kreuzfahrt-Gurus.de**. I built a scalable, cloud-native backend for frontend infrastructure based on Spring Boot and Kotlin. I also developed vuejs components. (http://www.kreuzfahrt-gurus.de)
 * **Ferien-Api.de**. I built a small service based on Spring Boot, Kotlin, and Jetty that exposes German school holidays via a RESTful API. (https://www.ferien-api.de)
 
+#### Research
+* **Brejla, P. & Gilbert, D. (2012)**. An Exploratory Use of Web Content Analysis to Understand Cruise Tourism Services. International Journal of Tourism Research. 16(2):157-168. (Download / Buy) 
+* **Papathanassis, A. & Brejla, P. (2012)**. Tourism Extranet Acceptance in the Cruise Distribution Chain: The Role of Content, Usability, and Appearance. Journal of Information Technology & Tourism. 13(2): 105-117. (Download / Buy)
+

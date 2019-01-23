@@ -1,4 +1,4 @@
-### Welcome
+### About Paul
 
 My interest is the area of Requirements Engineering, Systems Integration & Software Engineering. As a certified professional for requirements engineering (Advanced Level), I hold a 'Black Belt' in model-based Requirements Engineering.
 
@@ -13,7 +13,7 @@ I consider myself a 'full-stack software engineer and business analyst'. I have 
 
 I have learned to dynamically deal with shifting priorities and expectations in uncertain environments. 
 
-#### Technology
+#### Technology Stack
 
     Java Ecosystem (Especially the Groovy programming language, Spring Boot, Kotlin, and Scala)
     Amazon Web Services
@@ -28,10 +28,9 @@ I have learned to dynamically deal with shifting priorities and expectations in 
     Jira
     Test Automation with JMeter and Selenium
     Enterprise Architect
-    Unified Modelling Language
     RESTful Web Services
     SOAP
-    XML-RPC
+    XML-RPC (I have worked with some very strange legacy APIs)
     HTML
     CSS
     Javascript

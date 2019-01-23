@@ -56,3 +56,6 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Project Manager for a business-to-business marketing analysis project for a major cruise line in the DACH travel market.
 * Research Assistant for the programme in (International) Cruise Industry Management at the Bremerhaven University of Applied Sciences.
 * Internship at the "Touristikverband Rotenburg Wümme e.V.", where I implemented a county-wide internet reservation system.
+
+#### Research & Other Projects
+My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. I have been educated in a broad range of quantitative and qualitative skills at three European universities. I also do side projects, mostly to scratch own itches and stay on top of current technologies. 

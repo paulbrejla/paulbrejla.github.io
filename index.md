@@ -37,7 +37,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
     JQuery
     C
 
-Methodology
+#### Methodology
 
     Kanban
     Model-Based Requirements Engineering
@@ -49,3 +49,11 @@ Methodology
     Acceptance Criteria
     Product Roadmapping
     Quantitative Statistics
+
+#### Practice 
+* Backend Engineer at hepster.com, where I help an InsurTech startup build a scalable, backend platform. I helped the business by architecting a cloud-native infrastructure based on Spring Boot & Kotlin, AWS, Docker, Laravel, and Vue.js and coaching the delivery team (current).
+* Systems Analyst AIDA Cruises' Digital Unit, where I helped with the integration of Digital Products into legacy systems infrastructures as part of the organization's Digital Transformation. I was primarily involved in building decision support systems for call centers and the group's expansion into the Chinese market (Oct. 2016 - Oct. 2017).
+* Business Analyst Reservations & Electronic Channels at AIDA Cruises, where I was responsible for the internet booking platforms and the electronic channels (B2C - B2B) connected to it. I primarily dealed with requirements engineering and architecting a mission-critical Java stack based on Spring & Hibernate (Nov. 2011 - Oct. 2016).
+* Project Manager for a business-to-business marketing analysis project for a major cruise line in the DACH travel market.
+* Research Assistant for the programme in (International) Cruise Industry Management at the Bremerhaven University of Applied Sciences.
+* Internship at the "Touristikverband Rotenburg Wümme e.V.", where I implemented a county-wide internet reservation system.

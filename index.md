@@ -1,6 +1,6 @@
 ### About Paul
 
-My interest is the area of Requirements Engineering, Systems Integration & Software Engineering. As a certified professional for requirements engineering (Advanced Level), I hold a 'Black Belt' in model-based Requirements Engineering.
+My interest is the area of Requirements Engineering, Systems Integration & Software Engineering. During my career, I have integrated many services and legacy systems into scalable, customer-facing applications. As a certified professional for requirements engineering (Advanced Level), I hold a 'Black Belt' in model-based Requirements Engineering.
 
 My interests are located at the intersection between end customers, business processes, enterprise integration patterns, model-driven requirements engineering, software engineering, and technology acceptance. I have been educated in a broad range of quantitative and qualitative skills at three European universities.
 
@@ -19,7 +19,9 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Amazon Web Services
 * Spring Framework (Spring Boot)
 * JUnit
+* Gradle
 * Camunda
+* Headless Content Management Systems (Prismic, Contentful)
 * Play! Framework
 * Elixir & Phoenix
 * Python

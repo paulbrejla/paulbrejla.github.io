@@ -5,7 +5,7 @@ My interest is the area of Requirements Engineering, Systems Integration & Softw
 My interests are located at the intersection between end customers, business processes, enterprise integration patterns, model-driven requirements engineering, software engineering, and technology acceptance. I have been educated in a broad range of quantitative and qualitative skills at three European universities.
 
 My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields.
-I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Python, Kotlin, Groovy, Java, Scala, Elixir, Javascript and a range of SQL dialects. 
+I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. 
 
 ### Skills & Experience
 
@@ -24,8 +24,11 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Headless Content Management Systems (Prismic, Contentful)
 * Play! Framework
 * Elixir & Phoenix
+* Laravel
+* PHPUnit
 * Python
 * Git
+* PHP
 * Confluence
 * Jira
 * Test Automation with JMeter and Selenium
@@ -39,6 +42,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Vue.js
 * JQuery
 * C
+* Terraform
 
 #### Methodology
 

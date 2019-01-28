@@ -1,6 +1,6 @@
 ### About Paul
 
-My interest is the area of Requirements Engineering, Systems Integration & Software Engineering. During my career, I have integrated many services and legacy systems into scalable, customer-facing applications. As a certified professional for requirements engineering (Advanced Level), I hold a 'Black Belt' in model-based Requirements Engineering.
+My interest is the area of Requirements Engineering, Systems Integration & Software Engineering. During my career, I have integrated many services and legacy systems into scalable, customer-facing applications. As a certified professional for requirements engineering (Advanced Level), and certified software architect I hold a 'Black Belt' in model-based Requirements Engineering.
 
 My interests are located at the intersection between end customers, business processes, enterprise integration patterns, model-driven requirements engineering, software engineering, and technology acceptance. I have been educated in a broad range of quantitative and qualitative skills at three European universities.
 
@@ -55,8 +55,8 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 
 #### Practice 
 * Head of Backend at <a href="https://www.hepster.com">hepster.com</a>, where I help an InsurTech startup build a scalable, backend platform. I helped the business by architecting a cloud-native infrastructure based on Spring Boot & Kotlin, AWS, Docker, Laravel, and Vue.js and coaching the delivery team (current).
-* Systems Analyst AIDA Cruises' Digital Unit, where I helped with the integration of Digital Products into legacy systems infrastructures as part of the organization's Digital Transformation. I was primarily involved in building decision support systems for call centers and the group's expansion into the Chinese market (Oct. 2016 - Oct. 2017).
-* Business Analyst Reservations & Electronic Channels at AIDA Cruises, where I was responsible for the internet booking platforms and the electronic channels (B2C - B2B) connected to it. I primarily dealed with requirements engineering and architecting a mission-critical Java stack based on Spring & Hibernate (Nov. 2011 - Oct. 2016).
+* Systems Analyst AIDA Cruises' <a href="https://www.costadigital.io">Digital Unit</a>, where I helped with the integration of Digital Products into legacy systems infrastructures as part of the organization's Digital Transformation. I was primarily involved in building decision support systems for call centers and the group's expansion into the Chinese market (Oct. 2016 - Oct. 2017).
+* Business Analyst Reservations & Electronic Channels at <a href="https://www.aida.de">AIDA Cruises</a>, where I was responsible for the internet booking platforms and the electronic channels (B2C - B2B) connected to it. I primarily dealed with the integration of legacy reservation systems, requirements engineering and architecting a mission-critical Java stack based on Spring & Hibernate handling high transaction volumes (Nov. 2011 - Oct. 2016).
 * Project Manager for a business-to-business marketing analysis project for a major cruise line in the DACH travel market.
 * Research Assistant for the programme in (International) Cruise Industry Management at the Bremerhaven University of Applied Sciences.
 * Internship at the "Touristikverband Rotenburg Wümme e.V.", where I implemented a county-wide internet reservation system.

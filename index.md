@@ -71,17 +71,17 @@ My work or work that I have contributed to has been published in peer-reviewed a
 ##### Open Source
 * **easy-rules**. I contributed the ability to read MVEL rules from strings using a java.io.Reader to easy-rules, a simple rules engine for Java.
 
-#### Projects
+##### Projects
 * **Kreuzfahrt-Gurus.de**. I built a scalable, cloud-native backend for frontend infrastructure based on Spring Boot and Kotlin. I also developed vuejs components. (http://www.kreuzfahrt-gurus.de)
-* **Ferien-Api.de**. I built a small service based on Spring Boot, Kotlin, and Jetty that exposes German school holidays via a RESTful API. (https://www.ferien-api.de)
+* **Ferien-Api.de**. I built a small service based on Spring Boot, Kotlin, and Jetty that exposes German school holidays via a RESTful API. (<a href="https://www.ferien-api.de">https://www.ferien-api.de</a>)
 
-#### Research
-* **Brejla, P. & Gilbert, D. (2012)**. An Exploratory Use of Web Content Analysis to Understand Cruise Tourism Services. International Journal of Tourism Research. 16(2):157-168. (Download / Buy) 
-* **Papathanassis, A. & Brejla, P. (2012)**. Tourism Extranet Acceptance in the Cruise Distribution Chain: The Role of Content, Usability, and Appearance. Journal of Information Technology & Tourism. 13(2): 105-117. (Download / Buy)
-* **Papathanassis, A., Matuszewski, I. & Brejla, P. (2011)**. The 'Cruise Ship Railing Dance': Conducting academic research in the cruise domain. In Cruise Tourism and Society A Socio-economic Perspective. Springer Berlin Heidelberg. (Download / Buy)
+##### Publications
+* **Brejla, P. & Gilbert, D. (2012)**. An Exploratory Use of Web Content Analysis to Understand Cruise Tourism Services. International Journal of Tourism Research. 16(2):157-168. (<a href="https://onlinelibrary.wiley.com/doi/10.1002/jtr.1910">Download / Buy</a>) 
+* **Papathanassis, A. & Brejla, P. (2012)**. Tourism Extranet Acceptance in the Cruise Distribution Chain: The Role of Content, Usability, and Appearance. Journal of Information Technology & Tourism. 13(2): 105-117. (<a href="https://www.ingentaconnect.com/content/cog/itt/2011/00000013/00000002/art00004%3bjsessionid=172clvjjg58xc.x-ic-live-01">Download / Buy</a>)
+* **Papathanassis, A., Matuszewski, I. & Brejla, P. (2011)**. The 'Cruise Ship Railing Dance': Conducting academic research in the cruise domain. In Cruise Tourism and Society A Socio-economic Perspective. Springer Berlin Heidelberg. (<a href="https://link.springer.com/chapter/10.1007/978-3-642-32992-0_13">Download / Buy</a>)
 
-* **Master Thesis: Looting the Buffet and Prowling around the Pool - Exploring the Co-Created Cruise Vacation. A Web Content Mining Approach**. - Linköping University, Sweden. Supervisor: David Gilbert, PhD (University of Surrey, England).
-* **Bachelor Thesis: Modelling Travel Agency Extranet Acceptance: The Role of Usability, Content and Appearance**. - Bremerhaven University of Applied Sciences, Germany. Supervisor: Prof. Dr. Alexis Papathanassis.
+* **Master Thesis: Looting the Buffet and Prowling around the Pool - Exploring the Co-Created Cruise Vacation. A Web Content Mining Approach**. - <a href="https://liu.se">Linköping University</a>, Sweden. Supervisor: David Gilbert, PhD (University of Surrey, England).
+* **Bachelor Thesis: Modelling Travel Agency Extranet Acceptance: The Role of Usability, Content and Appearance**. - <a href="https://hs-bremerhaven.de">Bremerhaven University of Applied Sciences</a>, Germany. Supervisor: Prof. Dr. Alexis Papathanassis.
 
 ### Contact / Imprint
 You may contact me via e-mail under paul(at)paulbrejla(dot)com or via social media. 

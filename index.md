@@ -69,7 +69,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. I have been educated in a broad range of quantitative and qualitative skills at three European universities. I also do side projects, mostly to scratch own itches and stay on top of current technologies. 
 
 ##### Open Source
-* **easy-rules**. I contributed the ability to read MVEL rules from strings using a java.io.Reader to easy-rules, a simple rules engine for Java.
+* <a href="https://github.com/j-easy/easy-rules">**easy-rules**</a>. I contributed the ability to read MVEL rules from strings using a _java.io.Reader_ to easy-rules, a simple rules engine for Java.
 
 ##### Projects
 * **Kreuzfahrt-Gurus.de**. I built a scalable, cloud-native backend for frontend infrastructure based on Spring Boot and Kotlin. I also developed vuejs components. (http://www.kreuzfahrt-gurus.de)

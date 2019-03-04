@@ -1,9 +1,8 @@
 ### About Paul
 
-My interest is the area of Requirements Engineering, Systems Integration & Software Engineering. During my career, I have integrated many services and legacy systems into scalable, customer-facing applications. As a certified professional for requirements engineering (Advanced Level), and certified software architect I hold a 'Black Belt' in model-based Requirements Engineering.
+I help organisations in the domains of Digital Transformation, Requirements Engineering, Systems Integration & Software Engineering. During my career, I have integrated many services and legacy systems into scalable, customer-centric applications. 
 
-My interests are located at the intersection between end customers, business processes, enterprise integration patterns, model-driven requirements engineering, software engineering, and technology acceptance. I have been educated in a broad range of quantitative and qualitative skills at three European universities.
-
+I have been educated in a broad range of quantitative and qualitative skills at three European universities.
 My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. Software systems that I have architected and helped to build are used in production, generating significant revenues.
 I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. 
 
@@ -16,7 +15,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 #### Technology Stack
 
 * Java Ecosystem (Especially the Groovy programming language, Spring Boot, Kotlin, and Scala)
-* Amazon Web Services
+* Amazon Web Services (ECS, EC2, SQS, SNS, RDS, Route53, CloudWatch, Lambda)
 * Spring Framework (Spring Boot)
 * JUnit
 * Gradle

@@ -72,7 +72,7 @@ My work or work that I have contributed to has been published in peer-reviewed a
 * <a href="https://github.com/j-easy/easy-rules">**easy-rules**</a>. I contributed the ability to read MVEL rules from strings using a _java.io.Reader_ to easy-rules, a simple rules engine for Java.
 
 ##### Mentions / Talks
-* **Press: hepster startet Wallet-Feature für Versicherungsprodukte**. hepster startet Wallet-Feature für Versicherungsprodukte. Experten-Report / Versicherungs- und Finanznachrichten <a href="https://www.experten.de/2019/02/01/hepster-startet-wallet-feature-fuer-versicherungsprodukte/">hepster startet Wallet-Feature für Versicherungsprodukte</a>
+* **Press: hepster startet Wallet-Feature für Versicherungsprodukte**. hepster startet Wallet-Feature für Versicherungsprodukte. Experten-Report / Versicherungs- und Finanznachrichten <a href="https://www.experten.de/2019/02/01/hepster-startet-wallet-feature-fuer-versicherungsprodukte/">https://www.experten.de/2019/02/01/hepster-startet-wallet-feature-fuer-versicherungsprodukte/</a>
 * **Pitch: Global Insurtech Roadshow 2019 - March 19-20 2019**. Global Insurtech Roadshow Frankfurt <a href="https://gir19.com/">https://gir19.com/</a>
 
 ##### Projects

@@ -3,7 +3,7 @@
 I help organisations in the domains of Digital Transformation, Requirements Engineering, Systems Integration & Software Engineering. During my career, I have integrated many services and legacy systems into scalable, customer-centric applications. 
 
 I have been educated in a broad range of quantitative and qualitative skills at three European universities.
-My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. Software systems that I have architected and helped to build are used in production to date, generating significant revenues.
+My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. Products that I have architected and shipped are used by real customers at scale.
 I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. 
 
 ### Skills & Experience

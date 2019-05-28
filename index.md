@@ -73,6 +73,8 @@ My work or work that I have contributed to has been published in peer-reviewed a
 ##### Mentions / Talks
 * **Press: hepster startet Wallet-Feature für Versicherungsprodukte**. hepster startet Wallet-Feature für Versicherungsprodukte. Experten-Report / Versicherungs- und Finanznachrichten <a href="https://www.experten.de/2019/02/01/hepster-startet-wallet-feature-fuer-versicherungsprodukte/">https://www.experten.de/2019/02/01/hepster-startet-wallet-feature-fuer-versicherungsprodukte/</a>
 * **Pitch: Global Insurtech Roadshow 2019 - March 19-20 2019**. Global Insurtech Roadshow Frankfurt <a href="https://gir19.com/">https://gir19.com/</a>
+* **Pitch: Plug and Play Insurtech's Broker•Age - May 9th 2019**. Global Insurtech Roadshow Frankfurt <a href="https://www.evensi.de/insurtech-europe-broker-age-plug-play-munich/293820224">https://www.evensi.de/insurtech-europe-broker-age-plug-play-munich/293820224</a>
+
 
 ##### Projects
 * **Kreuzfahrt-Gurus.de**. I built a scalable, cloud-native backend for frontend infrastructure based on Spring Boot and Kotlin. I also developed vuejs components. (http://www.kreuzfahrt-gurus.de)

@@ -1,4 +1,4 @@
-### 👨 Paul Brejla
+### 👨 About
 
 I help organisations in the domains of Digital Transformation, Requirements Engineering, Systems Integration & Software Engineering. During my career, I have integrated many services and legacy systems into scalable, customer-centric applications. 
 

@@ -31,7 +31,7 @@ mixpanel.init("021b066081c2bb7a3030593940bfe2a3");
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
+        <h2><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h2>
        
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />

@@ -69,11 +69,13 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Research Assistant for the programme in (International) Cruise Industry Management at the Bremerhaven University of Applied Sciences.
 * Internship at the "Touristikverband Rotenburg Wümme e.V.", where I implemented a county-wide internet reservation system.
 
-#### Research & Other Contributions
+#### 🎓 Research & Other Contributions
 My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. I have been educated in a broad range of quantitative and qualitative skills at three European universities. I also do side projects, mostly to scratch own itches and stay on top of current technologies. 
 
 ##### Open Source
 * <a href="https://github.com/j-easy/easy-rules">**easy-rules**</a>. I contributed the ability to read MVEL rules from strings using a _java.io.Reader_ to easy-rules, a simple rules engine for Java.
+
+My aim is to participate more in OSS in the future.
 
 ##### Mentions in the media / Talks
 * **Press: hepster startet Wallet-Feature für Versicherungsprodukte**. hepster startet Wallet-Feature für Versicherungsprodukte. Experten-Report / Versicherungs- und Finanznachrichten <a href="https://www.experten.de/2019/02/01/hepster-startet-wallet-feature-fuer-versicherungsprodukte/">https://www.experten.de/2019/02/01/hepster-startet-wallet-feature-fuer-versicherungsprodukte/</a>

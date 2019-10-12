@@ -4,13 +4,15 @@ I help organisations in the domains of Digital Transformation, Requirements Engi
 
 I have been educated in a broad range of quantitative and qualitative skills at three European universities.
 My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. Products that I have architected and shipped are used by real customers at scale.
-I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. 
+I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. The idea to build things that have an impact on people's lifes is what drives me at work.
+
+Outside of work, I like to spend my free time with running (I've recently gotten into running half marathons), reading sci-fi books and stuff about psychology, cooking, playing guitar and music in general.
 
 ### Skills & Experience
 
-I consider myself a 'full-stack software engineer and business analyst'. I have a wide range of skills from requirements engineering, software engineering, business analysis and project management methodologies. I started writing code when I was 12 - the time I got my first Mac with HyperCard.
+I consider myself a 'full-stack software engineer and business analyst with a focus on cloud technologies'. I have a wide range of skills from requirements engineering, software engineering, business analysis and project management methodologies. I started writing code when I was 12 - the time I got my first Mac with HyperCard.
 
-I have learned to dynamically deal with shifting priorities and expectations in uncertain environments. 
+I have learned to dynamically deal with shifting priorities and expectations in highly uncertain environments. 
 
 #### Technology Stack
 
@@ -70,7 +72,7 @@ My work or work that I have contributed to has been published in peer-reviewed a
 ##### Open Source
 * <a href="https://github.com/j-easy/easy-rules">**easy-rules**</a>. I contributed the ability to read MVEL rules from strings using a _java.io.Reader_ to easy-rules, a simple rules engine for Java.
 
-##### Mentions / Talks
+##### Mentions in the media / Talks
 * **Press: hepster startet Wallet-Feature für Versicherungsprodukte**. hepster startet Wallet-Feature für Versicherungsprodukte. Experten-Report / Versicherungs- und Finanznachrichten <a href="https://www.experten.de/2019/02/01/hepster-startet-wallet-feature-fuer-versicherungsprodukte/">https://www.experten.de/2019/02/01/hepster-startet-wallet-feature-fuer-versicherungsprodukte/</a>
 * **Pitch: Global Insurtech Roadshow 2019 - March 19-20 2019**. Global Insurtech Roadshow Frankfurt <a href="https://gir19.com/">https://gir19.com/</a>
 * **Pitch: Plug and Play Insurtech's Broker•Age - May 9th 2019**. A Brokers, Agents & Distribution Conference <a href="https://www.evensi.de/insurtech-europe-broker-age-plug-play-munich/293820224">https://www.evensi.de/insurtech-europe-broker-age-plug-play-munich/293820224</a>
@@ -88,7 +90,7 @@ My work or work that I have contributed to has been published in peer-reviewed a
 * **Bachelor Thesis: Modelling Travel Agency Extranet Acceptance: The Role of Usability, Content and Appearance**. - <a href="https://hs-bremerhaven.de">Bremerhaven University of Applied Sciences</a>, Germany. Supervisor: Prof. Dr. Alexis Papathanassis.
 
 ### Contact / Imprint
-You may contact me via e-mail under paul(at)paulbrejla(dot)com or via social media. 
+You may contact me via e-mail under paul(at)paulbrejla(dot)com or via social media, which I prefer.
 
 > Paul Brejla  
 > Gerberbruch 15  

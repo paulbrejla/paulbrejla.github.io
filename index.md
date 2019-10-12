@@ -6,15 +6,15 @@ I have been educated in a broad range of quantitative and qualitative skills at 
 My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. Products that I have architected and shipped are used by real customers at scale.
 I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. The idea to build things that have an impact on people's lifes is what drives me at work.
 
-Outside of work, I like to spend my free time with running (I've recently gotten into running half marathons), reading sci-fi books and stuff about psychology, cooking, playing guitar and music in general.
+Outside of work, I like to spend my free time with running (I've recently gotten into running half marathons), reading sci-fi books and stuff about psychology, cooking, playing guitar and music in general. I also absorb knowledge like a sponge, there is probably nothing I am not interested in or excited about.
 
-### Skills & Experience
+### 💻 Skills & Experience
 
 I consider myself a 'full-stack software engineer and business analyst with a focus on cloud technologies'. I have a wide range of skills from requirements engineering, software engineering, business analysis and project management methodologies. I started writing code when I was 12 - the time I got my first Mac with HyperCard.
 
 I have learned to dynamically deal with shifting priorities and expectations in highly uncertain environments. 
 
-#### Technology Stack
+#### 🚀 Technology Stack
 
 * Java Ecosystem (Especially the Groovy programming language, Spring Boot, Kotlin, and Scala)
 * Amazon Web Services (ECS, EC2, SQS, SNS, RDS, Route53, CloudWatch, Lambda)
@@ -45,7 +45,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * C
 * Terraform
 
-#### Methodology
+#### 🔧 Methodology
 
 * Kanban
 * Model-Based Requirements Engineering

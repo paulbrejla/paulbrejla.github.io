@@ -22,9 +22,11 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Java Ecosystem (Especially the Groovy programming language, Spring Boot, Kotlin, and Scala)
 * Amazon Web Services (ECS, EC2, SQS, SNS, RDS, Route53, CloudWatch, Lambda)
 * Spring Framework (Spring Boot)
+* Payment Processors (Adyen, PayPal)
 * JUnit
 * Gradle
 * Camunda
+* iOS / Passkit
 * Headless Content Management Systems (Prismic, Contentful)
 * Play! Framework
 * Elixir & Phoenix

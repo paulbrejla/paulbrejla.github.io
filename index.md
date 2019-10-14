@@ -6,7 +6,7 @@ I have been educated in a broad range of quantitative and qualitative skills at 
 My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. Products that I have architected and shipped are used by real customers at scale.
 I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. The idea to build things that have a positive impact on the lifes of people like you and me is what drives me at work.
 
-Outside of work, I like to spend my free time with running (I've recently gotten into running half marathons), reading sci-fi books and stuff about psychology, cooking, playing guitar and music in general. I also absorb knowledge like a sponge, there is probably nothing I am not interested in or excited about.
+Outside of work, I like to spend my free time with running (I've recently gotten into running half marathons), reading sci-fi books and stuff about psychology, cooking, playing guitar and music in general. I tend to - for better or worse - absorb knowledge like a sponge, there is probably nothing I am not interested in or can get excited about.
 
 ### 💻 Skills & Experience
 

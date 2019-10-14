@@ -4,13 +4,13 @@ I help organisations in the domains of Digital Transformation, Requirements Engi
 
 I have been educated in a broad range of quantitative and qualitative skills at three European universities.
 My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. Products that I have architected and shipped are used by real customers at scale.
-I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. The idea to build things that have an impact on people's lifes is what drives me at work.
+I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. The idea to build things that have a positive impact on the lifes of people like you and me is what drives me at work.
 
 Outside of work, I like to spend my free time with running (I've recently gotten into running half marathons), reading sci-fi books and stuff about psychology, cooking, playing guitar and music in general. I also absorb knowledge like a sponge, there is probably nothing I am not interested in or excited about.
 
 ### 💻 Skills & Experience
 
-I consider myself a 'full-stack software engineer and business analyst with a focus on cloud technologies'. I have a wide range of skills from requirements engineering, software engineering, business analysis and project management methodologies. I grew up with the internet in the 90s and started writing code when I was 12 - the time I got my first Mac with HyperCard. For nostalgic reasons, this needs an 'under construction' gif:
+I consider myself a 'full-stack software engineer and business analyst with a focus on cloud technologies'. I have a wide range of skills from requirements engineering, software engineering, business analysis and project management methodologies. I grew up with the internet in the 90s and started writing code when I was 12 - the time I got my first Mac with HyperCard. For nostalgic reasons, have an 'under construction' gif:
 
 ![under-construction](/assets/img/construction.gif)
 
@@ -53,6 +53,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 #### 🔧 Methodology
 
 * Kanban
+* Scrum
 * Model-Based Requirements Engineering
 * Test-Driven Development
 * Agile Requirements Engineering

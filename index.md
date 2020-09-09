@@ -77,6 +77,7 @@ My work or work that I have contributed to has been published in peer-reviewed a
 
 ##### Open Source
 * <a href="https://github.com/j-easy/easy-rules">**easy-rules**</a>. I contributed the ability to read MVEL rules from strings using a _java.io.Reader_ to easy-rules, a simple rules engine for Java.
+* <a href="https://github.com/paulbrejla/Ferien-api">**ferien-api**</a>.
 
 My aim is to participate more in OSS in the future.
 

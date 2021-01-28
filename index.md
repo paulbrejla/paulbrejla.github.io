@@ -1,7 +1,7 @@
 ### 👨 About
 
-I help organisations in the domains of Digital Transformation, Requirements Engineering, Systems Integration & Software Engineering. During my career, I have integrated many services and legacy systems into scalable, customer-centric applications. 
-
+My interest is the area of Requirements Engineering, Systems Integration & Software Engineering in customer-centric and service-based industries - I like to solve problems with people, processes and technology with an agile mindset. I have more than 10 years of experience in developing and managing mission-critical digital products at scale in the hospitality and insurance industry. 
+ 
 I have been educated in a broad range of quantitative and qualitative skills at three European universities in Germany, Sweden, and England.
 My work or work that I have contributed to has been published in peer-reviewed and recognized journals within their respective fields. Products that I have architected and shipped are used by real customers at scale, generating significant transaction volumes.
 I am fluent in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. The idea to build things that have a positive impact on the lifes of people like you and me is what drives me at work.

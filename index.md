@@ -17,6 +17,15 @@ I consider myself a 'full-stack software engineer and business analyst with a fo
 
 I have learned to dynamically deal with shifting priorities and expectations in highly uncertain environments. 
 
+#### 💼 Practice 
+* Product Manager at <a href="https://www.uncharted.global">Uncharted</a>. Uncharted is a global insurtech company that is moving insurance distribution, product innovation, and policy administration into the platform economy. Our platform powers digital insurance transactions between global insurance carriers, brokers, and distributors - increasing scale, efficiency, and the flexibility to operate across product lines and insurance markets (Current).
+* Head of Software Development at <a href="https://www.hepster.com">hepster.com</a>, where I built a scalable, cloud-based insurance distribution platform. I helped the business from seed to its Series A by architecting and implementing a cloud-native infrastructure based on Spring Boot & Kotlin, AWS, Docker, Laravel, and Vue.js and coaching the delivery team. I turned high-level ideas and visions into technical product roadmaps and concrete deliverables using methodologies like impact mapping and "Discover to Deliver". Spearheaded the transition from project-based delivery into product-based thinking. (Oct. 2017 - Jan. 2021).
+* Systems Analyst AIDA Cruises' <a href="https://www.costadigital.io">Digital Unit</a>, where I helped with the integration of Digital Products into legacy systems infrastructures as part of the organization's Digital Transformation. I was primarily involved in building decision support systems for call centers and the group's expansion into the Chinese market. I also got to spend some time in Shanghai which was a great experience. (Oct. 2016 - Oct. 2017).
+* Business Analyst Reservations & Electronic Channels at <a href="https://www.aida.de">AIDA Cruises</a>, where I was responsible for the internet booking platforms and the electronic channels (B2C - B2B) connected to it. I primarily dealed with the integration of legacy reservation systems, requirements engineering and architecting a mission-critical Java stack based on Spring & Hibernate handling high transaction volumes. This included close collaboration with stakeholders in Europe and the United States across the whole product lifecycle (Nov. 2011 - Oct. 2016).
+* Project Manager for a business-to-business marketing analysis project for a major cruise line in the DACH travel market.
+* Research Assistant for the programme in (International) Cruise Industry Management at the Bremerhaven University of Applied Sciences.
+* Internship at the "Touristikverband Rotenburg Wümme e.V.", where I implemented a county-wide internet reservation system.
+
 #### 🚀 Technology Stack
 
 * Java Ecosystem (Especially the Groovy programming language, Spring Boot, Kotlin, and Scala)
@@ -63,15 +72,6 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Acceptance Criteria
 * Product Roadmapping
 * Quantitative Statistics
-
-#### 💼 Practice 
-* Product Manager at <a href="https://www.uncharted.global">Uncharted</a>. Uncharted is a global insurtech company that is moving insurance distribution, product innovation, and policy administration into the platform economy. Our platform powers digital insurance transactions between global insurance carriers, brokers, and distributors - increasing scale, efficiency, and the flexibility to operate across product lines and insurance markets (Current).
-* Head of Software Development at <a href="https://www.hepster.com">hepster.com</a>, where I built a scalable, cloud-based insurance distribution platform. I helped the business from seed to its Series A by architecting and implementing a cloud-native infrastructure based on Spring Boot & Kotlin, AWS, Docker, Laravel, and Vue.js and coaching the delivery team. I turned high-level ideas and visions into technical product roadmaps and concrete deliverables using methodologies like impact mapping and "Discover to Deliver". Spearheaded the transition from project-based delivery into product-based thinking. (Oct. 2017 - Jan. 2021).
-* Systems Analyst AIDA Cruises' <a href="https://www.costadigital.io">Digital Unit</a>, where I helped with the integration of Digital Products into legacy systems infrastructures as part of the organization's Digital Transformation. I was primarily involved in building decision support systems for call centers and the group's expansion into the Chinese market. I also got to spend some time in Shanghai which was a great experience. (Oct. 2016 - Oct. 2017).
-* Business Analyst Reservations & Electronic Channels at <a href="https://www.aida.de">AIDA Cruises</a>, where I was responsible for the internet booking platforms and the electronic channels (B2C - B2B) connected to it. I primarily dealed with the integration of legacy reservation systems, requirements engineering and architecting a mission-critical Java stack based on Spring & Hibernate handling high transaction volumes. This included close collaboration with stakeholders in Europe and the United States across the whole product lifecycle (Nov. 2011 - Oct. 2016).
-* Project Manager for a business-to-business marketing analysis project for a major cruise line in the DACH travel market.
-* Research Assistant for the programme in (International) Cruise Industry Management at the Bremerhaven University of Applied Sciences.
-* Internship at the "Touristikverband Rotenburg Wümme e.V.", where I implemented a county-wide internet reservation system.
 
 #### 🎓 Research & Other Contributions
 My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. I have been educated in a broad range of quantitative and qualitative skills at three European universities. I also do side projects, mostly to scratch own itches and stay on top of current technologies. 

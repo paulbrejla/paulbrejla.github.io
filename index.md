@@ -74,7 +74,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Quantitative Statistics
 
 #### 🎓 Research & Other Contributions
-My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. I have been educated in a broad range of quantitative and qualitative skills at three European universities. I also do side projects and some consulting to scratch own itches. stay on top of current technologies, and give something back to the communities that I owe a lot to. 
+My work or work that I have contributed to has been published in peer-reviewed and renowned journals within the respective fields. I have been educated in a broad range of quantitative and qualitative skills at three European universities. I also do side projects and some consulting to scratch own itches, stay on top of current technologies, and give something back to the communities that I owe a lot to. 
 
 ##### Teaching
 I teach undergraduate courses in *Information Systems Management* and *Information Systems Development* at the University of Applied Sciences in Bremerhaven tailored to Cruise Tourism Management students (<a href="https://www.hs-bremerhaven.de/studienangebot/bachelorstudiengaenge/cruise-tourism-management/">CTM Website</a>).

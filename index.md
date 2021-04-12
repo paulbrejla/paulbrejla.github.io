@@ -92,7 +92,6 @@ My aim is to participate more in OSS in the future.
 
 
 ##### Projects
-* **Kreuzfahrt-Gurus.de**. I built a scalable, cloud-native backend for frontend infrastructure based on Spring Boot and Kotlin. I also developed vuejs components. (http://www.kreuzfahrt-gurus.de)
 * **Ferien-Api.de**. I built a small service based on Spring Boot, Kotlin, and Jetty that exposes German school holidays via a RESTful API. (<a href="https://www.ferien-api.de">https://www.ferien-api.de</a>)
 
 ##### Publications

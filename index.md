@@ -30,6 +30,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 
 * Java Ecosystem (Especially the Groovy programming language, Spring Boot, Kotlin, and Scala)
 * Amazon Web Services (ECS, EC2, SQS, SNS, RDS, Route53, CloudWatch, Lambda)
+* Google Cloud Platform (Cloud Run, Cloud SQL, Artifact Registry, Cloud Armor, Cloud Load Balancing)
 * Spring Framework (Spring Boot)
 * Payment Processors (Adyen, PayPal)
 * JUnit

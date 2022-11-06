@@ -107,6 +107,6 @@ My aim is to participate more in OSS in the future.
 You may contact me via e-mail under paul(at)paulbrejla(dot)com or via social media, which I prefer.
 
 > Paul Brejla  
-> Gerberbruch 15  
-> 18055 Rostock
+> Schellerdamm 9  
+> 21079 Hamburg
 

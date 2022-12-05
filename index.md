@@ -40,7 +40,6 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * iOS / Passkit
 * Headless Content Management Systems (Prismic, Contentful)
 * Play! Framework
-* Elixir & Phoenix
 * Laravel
 * PHPUnit
 * Python
@@ -56,14 +55,11 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * HTML
 * CSS
 * Javascript
-* Vue.js
-* JQuery
-* C
-* Terraform
 
 #### 🔧 Methodology
 
 * Kanban
+* C4
 * Scrum
 * Model-Based Requirements Engineering
 * Test-Driven Development

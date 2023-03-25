@@ -10,7 +10,7 @@ Outside of work, I like to spend my free time with running (I've recently gotten
 
 ### 💻 Skills & Experience
 
-I consider myself a 'full-stack software engineer and business analyst with a focus on cloud technologies'. I have a wide range of skills from requirements engineering, software engineering, business analysis and project management methodologies. I grew up with the internet in the 90s and started writing code when I was 12 - the time I got my first Mac with HyperCard. For nostalgic reasons, have an 'under construction' gif:
+I consider myself a 'full-stack software engineer and business analyst with a focus on cloud technologies'. I have a wide range of skills from requirements engineering, software engineering, business analysis and project management methodologies. I grew up with the internet in the 90s and started writing code when I was 12 - the time I got my first Mac with HyperCard. Some years later, I've started building dynamic Web sites with cgi before there were frameworks. Now for nostalgic reasons, have an 'under construction' gif:
 
 ![under-construction](/assets/img/construction.gif)
 

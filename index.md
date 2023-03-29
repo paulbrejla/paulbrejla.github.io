@@ -1,6 +1,6 @@
 ### 👨 About
 
-My interest is the area of Requirements Engineering, Product Management, Systems Integration & Software Engineering in customer-centric and service-based industries - I like to solve problems through people, processes and technology with an agile mindset and empathy. I have more than 11 years of experience in developing and managing mission-critical digital products at scale in the hospitality and insurance industry.
+My interest is the area of Requirements Engineering, Product Management, Systems Integration & Software Engineering in customer-centric and service-based industries - I like to solve problems through people, processes and technology with an agile mindset and empathy. I have more than 12 years of experience in developing and managing mission-critical digital products at scale in the hospitality and insurance industry.
  
 I have been educated in a broad range of quantitative and qualitative skills at three European universities in Germany, Sweden, and England.
 My work or work that I have contributed to has been published in peer-reviewed and recognized journals within their respective fields. Products that I have architected and shipped are used by millions of customers, generating significant transaction volumes.

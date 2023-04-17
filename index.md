@@ -1,10 +1,10 @@
 ### 👨 About
 
-My interest is the area of Requirements Engineering, Product Management, Systems Integration & Software Engineering in customer-centric and service-based industries - I like to solve problems through people, processes and technology with an agile mindset and empathy. I have more than 12 years of experience in developing and managing mission-critical digital products at scale in the hospitality and insurance industry.
+My interest is the area of Requirements Engineering, Product Management, Systems Integration & Software Engineering in customer-centric and service-based industries - I like to solve problems through people, processes and technology with an agile mindset and empathy. I have more than 13 years of experience in developing and managing mission-critical digital products at scale in the hospitality and insurance industry.
  
 I have been educated in a broad range of quantitative and qualitative skills at three European universities in Germany, Sweden, and England.
-My work or work that I have contributed to has been published in peer-reviewed and recognized journals within their respective fields. Products that I have architected and shipped are used by millions of customers, generating significant transaction volumes.
-I am fluent and can work in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Elixir, Javascript and a range of SQL dialects. The idea to build things that have a positive impact on the lifes of people like you and me is what drives me at work.
+My work or work that I have contributed to has been published in peer-reviewed and recognized journals within their respective fields. Products that I have architected and shipped are used by millions of customers, generating very significant transaction volumes.
+I am fluent and can work in German, English, and Swedish. In addition, I am more or less fluent in Kotlin, Groovy, Java, Scala, PHP, Typescript, Javascript and a range of SQL dialects. The idea to build things that have a positive impact on the lifes of people like you and me is what drives me at work.
 
 Outside of work, I like to spend my free time with running (I've recently gotten into running half marathons), reading sci-fi books and stuff about psychology, cooking, playing guitar and music in general. I tend to - for better or worse - absorb knowledge like a sponge, there is probably nothing I am not interested in or can not get excited about.
 
@@ -13,7 +13,6 @@ Outside of work, I like to spend my free time with running (I've recently gotten
 I consider myself a 'full-stack software engineer and business analyst with a focus on cloud technologies'. I have a wide range of skills from requirements engineering, software engineering, business analysis and project management methodologies. I grew up with the internet in the 90s and started writing code when I was 12 - the time I got my first Mac with HyperCard. Some years later, I've started building dynamic Web sites with cgi before there were frameworks. Now for nostalgic reasons, have an 'under construction' gif:
 
 ![under-construction](/assets/img/construction.gif)
-
 
 I have learned to dynamically deal with shifting priorities and expectations in highly uncertain environments. 
 

@@ -28,6 +28,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 
 #### 🚀 Technology Stack
 
+##### Current
 * Java Ecosystem (Especially the Groovy programming language, Spring Boot, Kotlin, and Scala)
 * Amazon Web Services (ECS, EC2, SQS, SNS, RDS, Route53, CloudWatch, Lambda)
 * Google Cloud Platform (Cloud Run, Cloud SQL, Artifact Registry, Cloud Armor, Cloud Load Balancing)
@@ -35,13 +36,8 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Payment Processors (Adyen, PayPal)
 * JUnit
 * Gradle
-* Camunda
-* iOS / Passkit
 * Headless Content Management Systems (Prismic, Contentful)
-* Play! Framework
 * Laravel
-* PHPUnit
-* Python
 * Git
 * PHP
 * Confluence
@@ -50,23 +46,36 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * IntelliJ IDEA
 * RESTful Web Services
 * SOAP
-* XML-RPC (I have worked with some very strange legacy APIs)
 * HTML
 * CSS
 * Javascript
 
+##### Attic
+* Camunda
+* Passkit (yes, I have built insurance certificates for your wallet)
+* iOS / Cocoa
+* Objective-C
+* Play! Framework
+* PHPUnit
+* Python
+* XML-RPC (I have worked with some very strange legacy APIs)
+* Elixir
+  
 #### 🔧 Methodology
 
+##### Current
 * Kanban
 * C4
-* Scrum
 * Model-Based Requirements Engineering
-* Test-Driven Development
 * Agile Requirements Engineering
-* Use Case 2.0
 * User Stories
 * User Story Slicing
 * Acceptance Criteria
+
+##### Attic
+* Scrum
+* Test-Driven Development
+* Use Case 2.0
 * Product Roadmapping
 * Quantitative Statistics
 

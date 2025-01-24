@@ -1,6 +1,6 @@
 ### 👨 About
 
-My interest is the area of Requirements Engineering, Product Management, Systems Integration & Software Engineering in customer-centric and service-based industries - I like to solve problems through people, processes and technology with an agile mindset and empathy. I have more than 13 years of experience in developing and managing mission-critical digital products at scale in the hospitality and insurance industry.
+My interest is the area of Requirements Engineering, Product Management, Systems Integration & Software Engineering in customer-centric and service-based industries - I like to solve problems through people, processes and technology with an agile mindset and empathy. I have more than 14 years of experience in developing and managing mission-critical digital products at scale in the hospitality and insurance industry.
  
 I have been educated in a broad range of quantitative and qualitative skills at three European universities in Germany, Sweden, and England.
 My work or work that I have contributed to has been published in peer-reviewed and recognized journals within their respective fields. Products that I have architected and shipped are used by millions of customers, generating very significant transaction volumes.
@@ -10,7 +10,7 @@ Outside of work, I like to spend my free time with running (I've recently gotten
 
 ### 💻 Skills & Experience
 
-I consider myself a 'full-stack software engineer and business analyst with a focus on cloud technologies'. I have a wide range of skills from requirements engineering, software engineering, business analysis and project management methodologies. I grew up with the internet in the 90s and started writing code when I was 12 - the time I got my first Mac with HyperCard. Some years later, I've started building dynamic Web sites with cgi before there were frameworks. Now for nostalgic reasons, have an 'under construction' gif:
+I consider myself a 'full-stack software architect and business analyst with a focus on cloud technologies'. I have a wide range of skills from requirements engineering, software engineering, business analysis and project management methodologies. I grew up with the internet in the 90s and started writing code when I was 12 - the time I got my first Mac with HyperCard. Some years later, I've started building dynamic Web sites with cgi before there were frameworks. Now for nostalgic reasons, have an 'under construction' gif:
 
 ![under-construction](/assets/img/construction.gif)
 
@@ -37,7 +37,6 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * JUnit
 * Gradle
 * Headless Content Management Systems (Prismic, Contentful)
-* Laravel
 * Git
 * PHP
 * Confluence
@@ -48,6 +47,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * SOAP
 * HTML
 * CSS
+* Laravel
 * Javascript
 
 ##### Attic
@@ -60,6 +60,7 @@ I have learned to dynamically deal with shifting priorities and expectations in 
 * Python
 * XML-RPC (I have worked with some very strange legacy APIs)
 * Elixir
+
   
 #### 🔧 Methodology
 
@@ -98,7 +99,6 @@ My aim is to participate more in OSS in the future.
 
 
 ##### Projects
-* **canvas to png**. I built an application that allows users to extract PNG images from `<canvas>` elements on Web sites - which is not really possible without knowledge of the Javascript console. The application is built on top of Spring Boot, Kotlin, Jax-RS, and Apache Artemis. Image extraction is done through a headless Chrome browser, which runs in its own container. (<a href="https://canvastopng.de">https://canvastopng.de</a>)
 * **webhook.works**. I needed an application that can help me to (securely - by default) debug webhooks. So I have built <a href="https://webhook.works">https://webhook.works</a>, a full suite to see incoming webhook requests, see the request payload, and customize the response behaviour through user-provided Javascript snippets. The application is based on Spring Boot, Kotlin, Jax-RS, ActiveMQ and GraalVM to execute polyglot code and build native images. The application is invite-only for now. (<a href="https://webhook.works">https://webhook.works</a>)
 * **Ferien-Api.de**. I built a small service based on Spring Boot, Kotlin, and Jetty that exposes German school holidays via a RESTful API. (<a href="https://www.ferien-api.de">https://www.ferien-api.de</a>)
 
